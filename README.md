@@ -12,5 +12,11 @@ Users are ranked based on their record of challenges completed.
 
 
 ### JavaScript
+- 4 kyu - [Sum Strings as Numbers](js/4kyu/SumStringsAsNumbers.js)
+- 5 kyu - 
+- 6 kyu - [Javascript Filter 3](js/6kyu/JavascriptFilter3.js)
+- 7 kyu - [Friend Or Foe](js/7kyu/FriendOrFoe.js)
+- 7 kyu - [Javascript Array Filter](js/7kyu/JavascriptArrayFilter.js)
+- 7 kyu - [Printer Errors](js/7kyu/PrinterErrors.js)
 
 
