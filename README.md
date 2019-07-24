@@ -4,7 +4,7 @@ This is my GitHub repository of my kata solutions from [codewars.com](https://ww
 ![Profile badge](https://www.codewars.com/users/donalducky/badges/large)
 
 ## About CodeWars
-CodeWars is a a website that provides you with challanges from a variety of programming languanges and difficulty. <br />
+CodeWars is a a website that provides you with challenges from a variety of programming languanges and difficulties. <br />
 Users are ranked based on their record of challenges completed.
 
 ## My Solutions
