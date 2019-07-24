@@ -1,9 +1,3 @@
-# codewars
-solutions to various codewars.com challenges
-
-
-
-
 # CodeWars
 This is my GitHub repository of my kata solutions from [codewars.com](https://www.codewars.com/).
 
