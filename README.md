@@ -17,6 +17,7 @@ Users are ranked based on their record of challenges completed.
 - 6 kyu - [Persistent Bugger](js/6kyu/PersistentBugger.js)
 - 6 kyu - [Javascript Filter 3](js/6kyu/JavascriptFilter3.js)
 - 6 kyu - [Maximum Product](js/6kyu/MaximumProduct.js)
+- 6 kyu - [Nth Smallest Element Array - series 4](js/6kyu/NthSmallestElementArraySeries4.js)
 - 7 kyu - [Friend Or Foe](js/7kyu/FriendOrFoe.js)
 - 7 kyu - [Javascript Array Filter](js/7kyu/JavascriptArrayFilter.js)
 - 7 kyu - [Printer Errors](js/7kyu/PrinterErrors.js)
